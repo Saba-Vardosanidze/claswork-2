@@ -1,4 +1,4 @@
-button {
+.myButton {
   all: unset;
   display: flex;
   align-items: center;
@@ -11,6 +11,6 @@ button {
   cursor: pointer;
   transition: 300ms;
 }
-button:hover {
+.myButton:hover {
   background-color: var(--buttonColorHover);
 }

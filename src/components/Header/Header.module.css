@@ -1,4 +1,4 @@
-header {
+.headerContainer {
   display: flex;
   max-width: 1170px;
   width: 100%;
