@@ -1,0 +1,7 @@
+.buttonContainer {
+  max-width: 714px;
+  width: 100%;
+  margin: 78px auto;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+header ul {
+  display: flex;
+  gap: 47px;
+}
+header ul li a {
+  width: 48px;
+  transition: 300ms;
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--paragraphColor);
+}
+header ul li:hover a {
+  color: var(--paragraphColorHover);
+}

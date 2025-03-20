@@ -1,0 +1,22 @@
+.myParagraph {
+  width: 226px;
+  color: var(--paragraphColor);
+  line-height: 28px;
+  text-align: center;
+  font-size: 18px;
+}
+.paragraphContainer {
+  display: flex;
+  max-width: 1028px;
+  width: 100%;
+  margin: 112px auto;
+  gap: 84px;
+}
+
+.myParagraphWidthBorder {
+  width: 401px;
+  border-left: 2px solid var(--borderColor);
+  border-right: 2px solid var(--borderColor);
+  display: flex;
+  justify-content: center;
+}

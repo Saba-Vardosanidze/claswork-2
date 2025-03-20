@@ -1,0 +1,24 @@
+.heroContainer {
+  max-width: 714px;
+  width: 100%;
+  margin: 96px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.siteTitle {
+  font-weight: 700;
+  font-size: 58px;
+  color: var(--mainTitleColor);
+  text-align: center;
+  line-height: 70px;
+  margin-bottom: 32px;
+}
+.siteDescription {
+  font-size: 22px;
+  color: var(--paragraphColor);
+  text-align: center;
+  max-width: 600px;
+  line-height: 32px;
+  width: 100%;
+}
