@@ -1,7 +1,7 @@
 import styles from "./Navigation.module.css";
 export default function Navigation() {
   return (
-    <ul>
+    <ul className={styles.listContainer}>
       <li>
         <a href="#">Tour</a>
       </li>
